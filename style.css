@@ -4,10 +4,8 @@
   font-size: 17px;
 }
 .topnav a:hover {
-  background-color: #1483ba;
-  color: black;
+  color: #1483ba;
 }
 .topnav a.active {
-  background-color: #06374f;
-  color: white;
+  color: #06374f;
 }
